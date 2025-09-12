@@ -1,12 +1,7 @@
 # Creative Portfolio (React + Vite + Tailwind + Framer Motion)
 
-A polished, creative, and professional portfolio. Edit the content, drop in your dashboards and creations, and deploy.
+A polished, creative, and professional portfolio.
 
-## ▶️ Quick Start
-```bash
-npm install
-npm run dev
-```
 
 ## ✍️ Where to Edit
 - Landing page question/buttons: `src/pages/Landing.jsx`
@@ -17,18 +12,6 @@ npm run dev
 - Navbar title / links: `src/components/Navbar.jsx`
 - Colors & theme: `tailwind.config.js`
 
-## 📁 Add Your Files
-- Dashboards images/PDFs: `public/dashboards/` (update paths in `Projects.jsx`)
-- Creativity images: `public/creativity/`
-- Resume PDF: place as `public/resume.pdf` (button in About page)
 
-## 💌 Contact Form
-- Uses Formspree. Replace the action URL in `Contact.jsx` with your own endpoint.
-
-## 🌐 Deploy
-- **Vercel** (recommended): Import the repo → Framework: Vite → Build Command: `npm run build` → Output: `dist`
-- **Netlify**: New site from Git → Build: `npm run build` → Publish dir: `dist`
-- Add a custom domain for a professional URL.
-
-## 🧰 Stack
+##  Stack
 - React 18, Vite, Tailwind CSS, Framer Motion, React Router
