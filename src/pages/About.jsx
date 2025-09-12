@@ -84,7 +84,7 @@ innovation-focused environment.`;
 
       {/* ✅ Resume Download Button */}
       <a
-        href="/resume.pdf"
+        href="/KIRUTHICK RAJ B J (4).pdf"
         download
         className="mt-10 inline-flex items-center gap-2 px-6 py-3 rounded-xl 
         bg-cyan-200 text-green-900 font-semibold shadow-lg 
