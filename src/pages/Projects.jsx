@@ -24,6 +24,16 @@ const projects = [
       { title: 'GitHub Repo', file: 'https://github.com/SabudhFoundation/passion-project-doc_analysis_using_llms-mr-akshay' }
     ]
   },
+    {
+    id: 'customer-behavior',
+    title: 'Customer Behaviour Analysis',
+    description: 'Data Analysis of Customer Behavior using Python, Sql, PowerBI.',
+    thumbnail: '/thumbnails/cba.png',
+    tags: ['Python', 'SQL', 'PowerBI'],
+    children: [
+      { title: 'GitHub Repo', file: 'https://github.com/KIRUTHICKRAJBJ/Customer_Behavior_Analysis' }
+    ]
+  },
   {
     id: 'Amazon Prime Video Analysis',
     title: 'Amazon Prime Video Analysis',
