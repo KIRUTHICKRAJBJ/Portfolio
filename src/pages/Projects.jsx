@@ -28,7 +28,7 @@ const projects = [
     id: 'customer-behavior',
     title: 'Customer Behaviour Analysis',
     description: 'Data Analysis of Customer Behavior using Python, Sql, PowerBI.',
-    thumbnail: '/thumbnails/cba.png',
+    thumbnail: '/thumbnails/cba.jpg',
     tags: ['Python', 'SQL', 'PowerBI'],
     children: [
       { title: 'GitHub Repo', file: 'https://github.com/KIRUTHICKRAJBJ/Customer_Behavior_Analysis' }
